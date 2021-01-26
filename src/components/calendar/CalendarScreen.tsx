@@ -1,8 +1,9 @@
+import Navbar from "../ui/Navbar";
+
 const CalendarScreen = () => {
   return (
     <>
-      <h1>CalendarScreen</h1>
-      <hr />
+      <Navbar />
     </>
   );
 };
